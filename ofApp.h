@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-#include "../Sphere.h"
+#include "Sphere.h"
 
 class ofApp : public ofBaseApp {
 
